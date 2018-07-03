@@ -1,3 +1,0 @@
-This document doesn't have privilege!
-
-Hello World!
